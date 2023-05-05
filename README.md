@@ -11,14 +11,8 @@
 <h2>Future Improvements</h2>
 <p>A lot can be add to this application because banking itself is unlimited, such as other types of account and other services like online trabsfer, send money (Zelle or Cash App), Pay Bills, online Deposit. 
 We can also add an early pay day, if customers are enroll in direct deposit, we can also add extra time if account overdraw, and finally Data to track customer's spending.</p>
-<h2>How to run</h2>
-<p>You can click the link https://napo1951.github.io/Stephane-NapoleonBakingApplication/ to test it out. Also, you can pull it to your system by following this steps:
-Open your command-line (GitBash)
-Type "cd desktop"
-Type "mkdir Bad-Bank" (to create a folder in your desktop) or any other names you want to name it
-Type "git clone https://github.com/Napo1951/Stephane-NapoleonBakingApplication.git"
-Type http-server -c-1
-You'll be able to navigate on server 127.0.0.1:8080 to test this application.</p>
+<h2>To run this Application</h2>
+<p>In order to run the Application, you can start by cloning it to the system that you are using, just click "npm start" on git bash or on your terminal and once you navigate to localhost and firebase, and you will use that link: https://bankingapp-102e7.web.app/ </p>
 <h2>Credits</h2>
 <p>MIT xPRO</p>
 
